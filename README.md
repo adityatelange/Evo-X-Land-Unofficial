@@ -1,4 +1,5 @@
 # Evo-X-Land-Unofficial-Releases
+![GitHub All Releases](https://img.shields.io/github/downloads/adityatelange/Evo-X-Land-Unofficial/total)
 
 Sources: 
   ```
