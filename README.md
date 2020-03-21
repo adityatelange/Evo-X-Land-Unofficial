@@ -2,9 +2,10 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/adityatelange/Evo-X-Land-Unofficial/total)
 
 Sources: 
-  ```
-  Evolution X - https://github.com/Evolution-X/manifest
-  Device Tree - https://gitlab.com/87cf962b35146c21d0dd7f84594662b6/evo-x/android_device_xiaomi_land
-  Kernel Tree - https://gitlab.com/87cf962b35146c21d0dd7f84594662b6/evo-x/android_kernel_xiaomi_msm8937
-  Vendor Tree - https://gitlab.com/87cf962b35146c21d0dd7f84594662b6/evo-x/proprietary_vendor_xiaomi
-  ```
+  * Evolution X - https://github.com/Evolution-X/manifest (branch: ten)
+  * Device Tree - https://gitlab.com/87cf962b35146c21d0dd7f84594662b6/evo-x/android_device_xiaomi_land 
+  * Kernel Tree - https://gitlab.com/87cf962b35146c21d0dd7f84594662b6/evo-x/android_kernel_xiaomi_msm8937 
+  * Vendor Tree - https://gitlab.com/87cf962b35146c21d0dd7f84594662b6/evo-x/proprietary_vendor_xiaomi 
+
+Builds:
+ * [Releases](https://github.com/adityatelange/Evo-X-Land-Unofficial/releases)
