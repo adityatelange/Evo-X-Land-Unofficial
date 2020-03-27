@@ -9,3 +9,25 @@ Sources:
 
 Builds:
  * [Releases](https://github.com/adityatelange/Evo-X-Land-Unofficial/releases)
+
+
+## Building the System
+### Sync
+```
+# Initialize local repository
+repo init -u https://github.com/Evolution-X/manifest -b ten
+
+# get local_manifests
+cd .repo
+git clone https://gitlab.com/87cf962b35146c21d0dd7f84594662b6/evo-x/evox_local_manifests -b ten local_manifests
+cd ..
+
+# Sync
+repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --current-branch --optimized-fetch --prune -q
+```
+
+### Build
+```
+source build_land.sh
+mka bacon
+```
